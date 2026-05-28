@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/brandonandriam"><img src="https://img.shields.io/badge/GitHub-@tonpseudo-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/brandonandriam"><img src="https://img.shields.io/badge/GitHub-@brandonandriam?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/brandon-razakantoanina-4b7177317/"><img src="https://img.shields.io/badge/LinkedIn-Connexion-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:brandonandriam@gmail.com"><img src="https://img.shields.io/badge/Email-brandonandriam@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
-## 💫 À propos de moi
+##  À propos de moi
 
 Développeur Full-Stack spécialisé en automatisation et intégration d'API. Je construis des solutions web modernes qui connectent des services, améliorent les flux métiers et automatisent les échanges de données entre systèmes.
 
-## 🎓 Formation
+##  Formation
 
 - **Master 2 en Génie Logiciel et Base de Données** — En cours
   - École Nationale d'Informatique (ENI), Fianarantsoa
@@ -34,26 +34,26 @@ Développeur Full-Stack spécialisé en automatisation et intégration d'API. Je
 - **Outils :** Git, Linux (Ubuntu), Windows
 - **Modélisation :** UML, Merise
 
-## ✨ Illustration
+##  Illustration
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="dev animation" width="450" />
 </p>
 
-## 📊 Statistiques GitHub
+##  Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=radical" alt="stats github" />
 </p>
 
-## 📫 Contact
+##  Contact
 
 - Email : `brandonandriam@gmail.com`
 - GitHub : [brandonandriam](https://github.com/brandonandriam)
 - LinkedIn : [Brandon](https://www.linkedin.com/in/brandon-razakantoanina-4b7177317/)
 
 <details>
-<summary><strong>💡 Astuce</strong></summary>
+<summary><strong> Astuce</strong></summary>
 
 - Crée un dépôt GitHub nommé **`tonpseudo`** pour que ce README apparaisse directement sur ton profil
 - Remplace `tonpseudo` par ton vrai pseudo GitHub
