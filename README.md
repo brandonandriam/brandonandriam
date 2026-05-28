@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tonpseudo"><img src="https://img.shields.io/badge/GitHub-@tonpseudo-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/tonprofil"><img src="https://img.shields.io/badge/LinkedIn-Connexion-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/brandonandriam"><img src="https://img.shields.io/badge/GitHub-@tonpseudo-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/brandon-razakantoanina-4b7177317/"><img src="https://img.shields.io/badge/LinkedIn-Connexion-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:brandonandriam@gmail.com"><img src="https://img.shields.io/badge/Email-brandonandriam@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
